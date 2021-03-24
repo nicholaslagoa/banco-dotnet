@@ -2,21 +2,20 @@
 
 ***
 
-banco-dotnet é uma aplicação em console que simula transações de um banco no sistema local
+banco-dotnet is a console application that simulates bank transactions on the local system
 
 
-
-#### Dependências
+#### Dependencies
 
 ***
 
-Versão .NET Core SDK:
+.NET Core SDK Version:
 
 ```3.1.405```
 
 
-#### Execução
+#### Execution
 
 ***
 
-Para a execução da aplicação é necessário navegar até a pasta do repositório via terminal de comando e executar a linha *dotnet run*. É necessária a pré-instalação da SDK do .NET Core disponibilizada pela Microsoft na URL <https://dotnet.microsoft.com/download> para a execução da aplicação.
+For the application to run, it is necessary to navigate to the repository folder via the command terminal and run the *dotnet run* line. It is necessary to pre-install the .NET Core SDK made available by Microsoft at the URL <https://dotnet.microsoft.com/download> to run the application.
